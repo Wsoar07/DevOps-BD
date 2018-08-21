@@ -10,4 +10,14 @@ Terceira linha.
 # Vamos!
 teste 123
 
-Thais
+def soma (lista):
+   s=0
+   for x in range (1,len(lista),1)
+   if lista [x] % 2 == 0:
+   s=s+lista[x]
+   
+ return s
+ 
+l=[2,3,6,8,11]
+lst=soma(i)
+print(lst)
